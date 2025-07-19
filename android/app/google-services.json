@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806425448011",
+    "project_id": "privacy-id-system",
+    "storage_bucket": "privacy-id-system.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806425448011:android:50c900a6d8a144dba107ce",
+        "android_client_info": {
+          "package_name": "com.example.privacy_id_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWe1OMP9qwHM9PbhU2lLASIcDB1Re01c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
